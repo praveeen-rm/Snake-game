@@ -3,6 +3,11 @@
 > Python Project
 
 
+<div align="middle">
+  <img width=500 src="https://github.com/praveeenr/Snake-game/blob/main/Screenshot.png"/>
+</div>
+
+
 This is a simple 2d snake game project built using pythons `pygame` library. <br>
 
 _You can learn more about pygame [here](https://www.pygame.org/news)._
